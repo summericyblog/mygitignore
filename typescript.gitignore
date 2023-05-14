@@ -1,0 +1,6 @@
+# typescript
+**/node_modules
+**/build/
+*.log*
+**/.env
+**/.env.bak
