@@ -1,0 +1,2 @@
+# mygitignore
+Git ignore settings.
